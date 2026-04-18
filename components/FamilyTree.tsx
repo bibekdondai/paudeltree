@@ -151,8 +151,8 @@ export default function FamilyTree({ members, rootMemberId = 'chakrapani_paudel'
       {/* FOOTER */}
       <footer className="absolute bottom-0 left-0 right-0 z-40 pb-4 pt-10 bg-gradient-to-t from-slate-50 via-slate-50/90 to-transparent pointer-events-none">
           <div className="flex flex-col items-center gap-1">
-            <p className="text-[9px] font-bold text-slate-400 uppercase tracking-widest">© 2026 Bibek Paudel</p>
-            <a href="https://bibekpaudel1337.com.np" target="_blank" rel="noopener noreferrer" className="text-[10px] font-black text-blue-600 pointer-events-auto">bibekpaudel1337.com.np</a>
+            <p className="text-[9px] font-bold text-slate-400 uppercase tracking-widest">© 2026 All Rights Reserved To</p>
+            <a href="https://bibekpaudel1337.com.np" target="_blank" rel="noopener noreferrer" className="text-[10px] font-black text-blue-600 pointer-events-auto">Bibek Paudel</a>
           </div>
       </footer>
 
